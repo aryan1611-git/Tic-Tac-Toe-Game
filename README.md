@@ -1,12 +1,17 @@
 # Tic-Tac-Toe-Game
-## How to Run
+A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
-1. Open `index.html` in your browser.
-2. Choose your symbol.
-3. Take turns and play Tic-Tac-Toe.
+## Features
 
-## Technologies Used
+- Two-player gameplay
+- Interactive game board
+- Automatic winner detection
+- Draw detection
+- Simple and responsive interface
 
-- HTML
-- CSS
-- JavaScript
+## How to Play
+
+1. Player 1 plays with X.
+2. Player 2 plays with O.
+3. Take turns placing your symbol on the board.
+4. The first player to get three symbols in a row wins.
